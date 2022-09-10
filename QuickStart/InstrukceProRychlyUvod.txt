@@ -1,0 +1,49 @@
+Projektové soubory programu jsou ve složce "Stredoskolak".
+Po přeložení a spuštění programu je vhodné do složky s přeloženým programem přidat soubory ze složky "objekty". Toto předdefinuje některé soustavy rovnic.
+
+Pro rychlý úvod do toho jak program používat lze vyzkoušet následující rovnice/soustavy.
+Napsáním číslice 1 a zmáčknutím Enter se program přepne do režimu řešení rovnic.
+V něm se zadávájí jednotlivé rovnice na řádky a soustava končí prázdným řádkem.
+U poslední bude trvat asi minuty než bude soustava vypočítaná. Pokud jsou první 2 řádky prohozené u poslední soustavy, bude to trvat ještě déle.
+
+S=a*b
+o=2*(a+b)
+a=12
+b=14
+
+Obdelnik
+a=12
+b=14
+
+Obdelnik
+S=168
+o=52
+
+Obdelnik
+a=2*b
+S=72
+
+0=x^3-6*x^2+5*x+12
+
+0=x^3-5*x^2+5*x+12
+
+Kvadr
+S=50
+V=12
+c=2
+
+0=0
+
+0=1
+
+x=y
+y=z
+
+x=2*y
+y=x
+
+Valec(V/Vv,S/Sv)
+Krychle(V/Vk,S/Sk)
+Vk=Vv
+a=6
+r=4
